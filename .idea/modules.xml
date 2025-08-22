@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/tasks.iml" filepath="$PROJECT_DIR$/.idea/tasks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/two_sums/two_sums.iml" filepath="$PROJECT_DIR$/two_sums/two_sums.iml" />
       <module fileurl="file://$PROJECT_DIR$/word_counter/word_counter.iml" filepath="$PROJECT_DIR$/word_counter/word_counter.iml" />
     </modules>
   </component>
